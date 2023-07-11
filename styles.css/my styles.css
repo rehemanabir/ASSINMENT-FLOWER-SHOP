@@ -1,0 +1,11 @@
+.flower{
+    text-emphasis: 1200px;
+    background-color:rgb(250, 187, 176);
+    margin: 0px;
+    padding: 200px 0 365px 200px;
+    
+    border: 10px;
+    font-size: 55px;
+    display: block;
+
+}
