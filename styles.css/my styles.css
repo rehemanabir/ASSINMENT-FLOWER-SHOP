@@ -2,10 +2,29 @@
     text-emphasis: 1200px;
     background-color:rgb(250, 187, 176);
     margin: 0px;
-    padding: 200px 0 365px 200px;
+    padding: 200px 0 165px 200px;
     
     border: 10px;
     font-size: 55px;
-    display: block;
 
+}
+.button{
+        background-color: #ec3b05;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration-style: dashed;
+        font-size: 26px;
+}
+.banner{
+    display: flex;
+    background-color:rgb(250, 187, 176); ;
+
+    
+}
+.flr{
+    padding-left: 150px;
+    height: 800px;
+    width: 635px;
 }
