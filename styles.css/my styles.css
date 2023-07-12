@@ -40,7 +40,6 @@
     border: 25px;
     border-radius: 300px 300px 0 0 ;
     gap: 10px;
-    object-position: center;    
 }
 .part3{
     width: 1440px;
@@ -53,8 +52,62 @@ display: flex;
 justify-content: center;
 padding-top: 130px;
 border-radius: 10px;
+}
+.part4{
+width: 1922px;
+height: 520px;
+margin-top: 160px;
+background: rgb(228, 230, 155);
+text-align: center;
+text-emphasis: 100px;
+padding-top: 100px;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+size: 20%;
+}
+.size{
+   text-emphasis: 200%;
+}
+.insta{
+    text-align: center;
+    padding-top: 100px;
+}
+.photo{
+    width: 342px;
+height: 396px;
+gap: 05px;
+display: flex;
+align-items: center;
+justify-content: start;
+padding-left: 250px;}
+.finder{
+    width: 1440px;
+    height: 449px;
+    background-image:url('../Flower\ Asset/Rectangle 9.png');
+    background-position: center;
+    padding-left:435px;
+ background-repeat: no-repeat;
+ padding-top: 200px;
+ align-content: center;
+ justify-content: space-around;
+ display: block;
 
 }
-.delivery img{
-    align-items: center;
+.footr{
+    width: 1922px;
+height: 449px;
+background-color: black;
+display: block;
+align-items: center;
+justify-content: center;
+padding-left: 650px;
+padding-top: 100px;
+}
+.best{
+    padding-top: 100px;
+    padding-left: 750px;
+    width: 1922px;
+height: 520px; background-color: cadetblue;
+
 }
